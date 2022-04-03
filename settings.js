@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': 'Alphabot',
+	'https://api-alphabot.herokuapp.com': '5dcbf4f0fd',
 }
 
 // setting 
