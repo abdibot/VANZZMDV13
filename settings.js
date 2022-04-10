@@ -8,31 +8,31 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': '5dcbf4f0fd',
+	'https://api-alphabot.herokuapp.com': 'Alphabot',
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autoread = true // auto read pesan / message
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "HELLO BOT MD" //namabot kalian
-global.ownername= "OWNER HELLO BOT" //nama kalian
+global.botname = "HELLO BOT" //namabot kalian
+global.ownername= "VANZZ OFC" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.github = "https://github.com/abdibot" //bebas
 global.email = "vanzzofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6285824629954" // nomor wa kalian
-global.ownernomerr = "+6285824629954" //nmr wa kalian
+global.ownernomerr = "+6283856885495" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285824629954","6285824629954","6285824629954"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© HELLO BOT MD' //sticker wm ubah
-global.author = 'Di Buat Oleh vanzzOfc' //sticker wm ganti nama kalian
+global.owner = ["6285824629954","6283856885495","6283856885495"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© HELLO BOT' //sticker wm ubah
+global.author = 'Di Buat Oleh vanzzofc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
